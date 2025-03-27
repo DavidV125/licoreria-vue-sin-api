@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as n,b as r}from"./index-CspkdKzV.js";const c={data(){return{titulo:"Error 404 - Componente no encontrado.  "}}},s={id:"divNotFound"},a=["innerHTML"];function d(_,i,p,u,o,l){return t(),n("div",s,[r("h1",{innerHTML:o.titulo},null,8,a)])}const m=e(c,[["render",d],["__scopeId","data-v-c0b0da0e"]]);export{m as default};
