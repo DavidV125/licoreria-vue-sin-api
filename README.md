@@ -15,7 +15,6 @@ This is an adapted version of an original project that used external `.json` fil
 ![image](https://github.com/user-attachments/assets/86ee0d86-05b0-4c02-a328-cd6556d57c4e)
 ![image](https://github.com/user-attachments/assets/daeb5a41-1888-4ae7-b64a-39e048cc476e)
 ![image](https://github.com/user-attachments/assets/632159ab-2553-4b7e-a593-00cc4da2f853)
-![image](https://github.com/user-attachments/assets/e994375d-9ed7-4866-8127-338aaab7062d)
 
 
 ---
@@ -41,21 +40,21 @@ This is an adapted version of an original project that used external `.json` fil
 
 ## 🧩 Installation / Instalación
 
-git bash
-npm install
-npm run dev
+- git bash
+- npm install
+- npm run dev
 
 
 ## 📦 Build and Deploy / Compilar y Subir
 
-npm run build
-npm run deploy
-(⚠️ Asegúrate de configurar base: '/licoreria-vue-sin-api/' en vite.config.js.)
+- npm run build
+- npm run deploy
+- (⚠️ Asegúrate de configurar base: '/licoreria-vue-sin-api/' en vite.config.js.)
 
 
 
-👤 Author / Autor
-David Villacura
-Frontend Developer Trainee
-📧 davvillacura@gmail.com
-🌐 GitHub Profile: https://github.com/DavidV125
+## 👤 Author / Autor
+- David Villacura
+- Frontend Developer Trainee
+- 📧 davvillacura@gmail.com
+- 🌐 GitHub Profile: https://github.com/DavidV125
