@@ -6,7 +6,7 @@ Una aplicación web desarrollada con Vue 3, Pinia y Vite que simula una tienda d
 
 Esta es una versión adaptada desde un proyecto original que usaba datos provenientes de un archivo `.json` externo. La actual implementación elimina dependencias externas, asegurando un despliegue exitoso en GitHub Pages sin necesidad de APIs.
 
-## Proyecto original: https://github.com/DavidV125/liquorshop-app-vue
+## Proyecto original: https://github.com/DavidV125/liquor-store-app-vue
 
 # 🍷 Liquor Store - Vue 3 App (No API Version)
 
@@ -14,7 +14,7 @@ A web application built with Vue 3, Pinia, and Vite, simulating a liquor store w
 
 This is an adapted version of an original project that used external `.json` files and API-style data fetching. In this version, all data is handled locally, making it fully compatible with GitHub Pages deployment without backend or external hosting.
 
-## Original project: https://github.com/DavidV125/liquorshop-app-vue
+## Original project: https://github.com/DavidV125/liquor-store-app-vue
 
 ![image](https://github.com/user-attachments/assets/86ee0d86-05b0-4c02-a328-cd6556d57c4e)
 ![image](https://github.com/user-attachments/assets/daeb5a41-1888-4ae7-b64a-39e048cc476e)
